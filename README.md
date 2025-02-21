@@ -1,7 +1,7 @@
 # Tianhao (Terry) Fu
 
 I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at UTSG. My major
-interest is in the field of Computer Vision, which include autonomous racing and medical image processing. I am also a
+interest is in the field of Computer Vision, which include Autonomous Racing and Medical Image Processing. I am also a
 full stack developer who mainly focus on Next.js, SpringBoot, and MySQL.
 
 I initially worked as a full stack developer since middle school in Shanghai. I developed the website and
