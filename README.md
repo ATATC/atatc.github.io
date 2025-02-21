@@ -1,6 +1,6 @@
 # Tianhao (Terry) Fu
 
-I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at U of T. My major
+I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at UTSG. My major
 interest is in the field of Computer Vision, which include autonomous racing and medical image processing. I am also a
 full stack developer who mainly focus on Next.js, SpringBoot, and MySQL.
 
