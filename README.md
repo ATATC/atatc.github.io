@@ -1,8 +1,8 @@
 # Tianhao (Terry) Fu
 
-I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at UTSG. My major
-interest is in the field of Computer Vision, which include autonomous racing and medical image processing. I am also a
-full stack developer who mainly focus on Next.js, SpringBoot, and MySQL.
+I'm currently an undergraduate student in **[Engineering Science](https://engsci.utoronto.ca)** 2T9 at UTSG. My major
+interest is in the field of **Computer Vision**, which include **Autonomous Racing and Medical Image Processing**. I am
+also a full stack developer who mainly focus on **Next.js**, **SpringBoot**, and **MySQL**.
 
 I initially worked as a full stack developer since middle school in Shanghai. I developed the website and
 schedule system for [Intelligent International Education](https://inteledu.ca) as a part-time co-op job in 2023. My
@@ -14,7 +14,7 @@ Noticeably, we developed LEADS as a collaborative project with the VeC team, whi
 to compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still
 active in the VeC Steering Council even though I have left high school.
 
-Also, a big fan in racing and sport cars who have heavily invested in Ferrari and Porsche.
+Also, a big fan in racing and sport cars who have heavily invested in **Ferrari** and **Porsche**.
 
 ## Publications
 
