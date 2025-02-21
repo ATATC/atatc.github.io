@@ -19,7 +19,7 @@ Also, a big fan in racing and sport cars who have heavily invested in Ferrari an
 
 ### LEADS: Lightweight Embedded Assisted Driving System
 
-[Project](https://leads.projectneura.org) | [Paper](https://arxiv.org/abs/2410.17554) | [Repo](https://github.com/ProjectNeura/LEADS)
+[Project](https://leads.projectneura.org) [Paper](https://arxiv.org/abs/2410.17554) [Repo](https://github.com/ProjectNeura/LEADS)
 
 With the rapid development of electric vehicles, formula races that face high school and university students have become
 more popular than ever as the threshold for design and manufacturing has been lowered. In many cases, we see teams
@@ -58,7 +58,7 @@ respectively. The code is publicly available at https://github.com/ProjectNeura/
 
 ### AQuiz
 
-[论文](https://projectneura.org/aquiz) | [仓库](https://github.com/ProjectNeura/AQuiz)
+[论文](https://projectneura.org/aquiz) [仓库](https://github.com/ProjectNeura/AQuiz)
 
 AQuiz 是为 ArRow 设计的推荐算法，前身为原 XFCRC。
 
@@ -66,7 +66,7 @@ AQuiz 是为 ArRow 设计的推荐算法，前身为原 XFCRC。
 
 ### A Deep Learning Model for Accurate and Robust Internet Traffic Classification
 
-[Paper](https://www.ewadirect.com/proceedings/ace/article/view/2137) | [Repo](https://github.com/ProjectNeura/A-Deep-Learning-Model-for-Accurate-and-Robust-Internet-Traffic-Classification)
+[Paper](https://www.ewadirect.com/proceedings/ace/article/view/2137) [Repo](https://github.com/ProjectNeura/A-Deep-Learning-Model-for-Accurate-and-Robust-Internet-Traffic-Classification)
 
 In this paper, we proposed a deep learning model which achieves progress compared to LeNet-5 in the stability of
 Internet traffic classification.
