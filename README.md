@@ -5,6 +5,10 @@ I'm currently an undergraduate student in [Engineering Science](https://engsci.u
 I started my research career in high school at [Villanova College](https://www.villanovacollege.org). Later, I did an
 internship in MIP at [Vector Institute](https://vectorinstitute.ai).
 
+Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members. We
+developed LEADS as a collaborative project with the VeC team. I'm still active in the VeC Steering Council even though
+I have left high school.
+
 ## Publications
 
 ### LEADS: Lightweight Embedded Assisted Driving System
