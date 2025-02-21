@@ -20,7 +20,7 @@ Also, a big fan in racing and sport cars who have heavily invested in Ferrari an
 
 ### LEADS: Lightweight Embedded Assisted Driving System
 
-[Project](https://leads.projectneura.org) + [Paper](https://arxiv.org/abs/2410.17554) + [Repo](https://github.com/ProjectNeura/LEADS)
+[PROJECT](https://leads.projectneura.org) + [PAPER](https://arxiv.org/abs/2410.17554) + [REPO](https://github.com/ProjectNeura/LEADS)
 
 With the rapid development of electric vehicles, formula races that face high school and university students have become
 more popular than ever as the threshold for design and manufacturing has been lowered. In many cases, we see teams
@@ -33,7 +33,7 @@ Assisted Driving System), a dedicated solution for such scenarios.
 
 ### A Multi-task Model for Joint Segmentation and Classification of Pancreatic Cancer
 
-[Repo](https://github.com/bowang-lab/PANORAMA)
+[REPO](https://github.com/bowang-lab/PANORAMA)
 
 Pancreatic ductal adenocarcinoma (PDAC) is a highly aggressive malignancy with poor prognosis, underscoring the critical
 need for early and accurate diagnosis.We present a novel two-stage pipeline for PDAC detection from contrast-enhanced
@@ -46,7 +46,7 @@ classification. The methods achieved an AUROC of 0.9833 and an AP of 0.8011 on t
 
 ### Towards Robust Instrument Segmentation with Data Augmentation
 
-[Repo](https://github.com/ProjectNeura/SegSTRONGC)
+[REPO](https://github.com/ProjectNeura/SegSTRONGC)
 
 Accurate and robust segmentation of surgical instruments is critical for effective analysis of surgery videos. In this
 paper, we present our solution to the MICCAI 2024 SegSTRONG-C challenge, focusing on enhancing segmentation performance
@@ -67,7 +67,7 @@ AQuiz 是为 ArRow 设计的推荐算法，前身为原 XFCRC。
 
 ### A Deep Learning Model for Accurate and Robust Internet Traffic Classification
 
-[Paper](https://www.ewadirect.com/proceedings/ace/article/view/2137) + [Repo](https://github.com/ProjectNeura/A-Deep-Learning-Model-for-Accurate-and-Robust-Internet-Traffic-Classification)
+[PAPER](https://www.ewadirect.com/proceedings/ace/article/view/2137) + [REPO](https://github.com/ProjectNeura/A-Deep-Learning-Model-for-Accurate-and-Robust-Internet-Traffic-Classification)
 
 In this paper, we proposed a deep learning model which achieves progress compared to LeNet-5 in the stability of
 Internet traffic classification.
