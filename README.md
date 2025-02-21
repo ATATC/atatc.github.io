@@ -13,7 +13,7 @@ Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held te
 Noticeably, we developed LEADS as a collaborative project with the VeC team. I'm still active in the VeC Steering
 Council even though I have left high school.
 
-Also, a big fan in racing and sport cars. Heavily invested in Ferrari and Porsche.
+Also, a big fan in racing and sport cars who have heavily invested in Ferrari and Porsche.
 
 ## Publications
 
