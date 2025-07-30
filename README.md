@@ -2,12 +2,10 @@
 
 I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at UTSG. My major
 interest is in the field of Computer Vision, which include Autonomous Racing and Medical Image Processing. I am also a
-full stack developer who mainly focus on Next.js, SpringBoot, and MySQL.
+full stack developer who mainly focuses on Next.js, SpringBoot, and MySQL.
 
-I initially worked as a full stack developer since middle school in Shanghai. I developed the website and
-schedule system for [Intelligent International Education](https://inteledu.ca) as a part-time co-op job in 2023. My
-research career started in high school at [Villanova College](https://www.villanovacollege.org). Later, I did an
-internship in MIP at [Vector Institute](https://vectorinstitute.ai).
+I initially worked as a full stack developer since middle school in Shanghai. My research career started in high school
+at [Villanova College](https://www.villanovacollege.org). Later, I did an internship in MIP at [Vector Institute](https://vectorinstitute.ai).
 
 Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members.
 Noticeably, we developed LEADS as a collaborative project with the VeC team, which is a club in my high school that aims
