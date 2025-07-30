@@ -12,6 +12,11 @@ Noticeably, we developed LEADS as a collaborative project with the VeC team, whi
 to compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still
 active in the VeC Steering Council even though I have left high school.
 
+In summer 2025, I started leading a small research group that aims at conference workshop challenges. We are actively
+recruiting undergraduate or high-school students who have built a certain fundamental understanding in deep learning,
+especially bioinformatics, and are ready to invest a decent amount of time and effort. Feel free to reach out to
+[me](mailto:terry.fu@projectneura.org) if you are interested.
+
 Also, a big fan in racing and sport cars who have heavily invested in Ferrari and Porsche.
 
 ## Publications
