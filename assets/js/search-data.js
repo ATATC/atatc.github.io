@@ -428,12 +428,7 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-founded-project-neura",
+      },{id: "news-founded-project-neura",
           title: 'Founded Project Neura.',
           description: "",
           section: "News",},{id: "news-moved-to-richmond-hill-ontario-canada",
