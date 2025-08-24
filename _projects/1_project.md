@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: LEADS
+description: Lightweight Embedded Assisted Driving System
 img: assets/img/12.jpg
 importance: 1
 category: work
