@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /lab/
 title: lab
-description: realize your innovational ideas with TFu Lab
+description: where you realize your innovational ideas
 nav: true
 nav_order: 7
 
