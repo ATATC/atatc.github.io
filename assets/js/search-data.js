@@ -453,6 +453,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20241012_0/";
+            },},{id: "news-4th-in-the-panorama-challenge",
+          title: '4th in the PANORAMA Challenge.',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/20250301_0/";
             },},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
           title: 'Joined University of Toronto as an undergraduate student in 2T9 Engineering Science (PEY...',
           description: "",
