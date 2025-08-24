@@ -6,11 +6,9 @@ title: Tianhao Fu
 first_name: Tianhao
 middle_name:
 last_name: Fu
-contact_note: >
-  Feel free to reach out to <a href="mailto:terry.fu@projectneura.org">me</a>.
-description: >
-  My portfolio and TFu Lab
-footer_text: >
+contact_note: terry.fu@projectneura.org
+description: Tianhao Fu Portfolio
+footer_text: Built with GitHub Pages.
 keywords:
 lang: en
 icon: ❀
@@ -18,7 +16,7 @@ icon: ❀
 url: https://atatc.github.io
 baseurl:
 last_updated: false
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+impressum_path:
 back_to_top: true
 
 # -----------------------------------------------------------------------------
@@ -28,10 +26,6 @@ back_to_top: true
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
 # -----------------------------------------------------------------------------
 # RSS Feed
