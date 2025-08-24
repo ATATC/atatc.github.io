@@ -455,10 +455,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-vector-institute-as-an-intern",
           title: 'Joined Vector Institute as an intern.',
           description: "",
-          section: "News",},{id: "news-congratulations-to-segstrong-c-on-its-successful-report-on-miccai-2024-great-thanks-to-dr-ma-and-dr-wang-it-wouldn-t-be-possible-without-your-support-we-actually-beat-the-third-team-on-6-10-metrics",
-          title: 'Congratulations to SegSTRONG-C on its successful report on MICCAI 2024! Great thanks to...',
+          section: "News",},{id: "news-4th-in-the-segstrong-c-challenge",
+          title: '4th in the SegSTRONG-C challenge.',
           description: "",
-          section: "News",},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
+          section: "News",handler: () => {
+              window.location.href = "/news/20241012_0/";
+            },},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
           title: 'Joined University of Toronto as an undergraduate student in 2T9 Engineering Science (PEY...',
           description: "",
           section: "News",},{id: "projects-project-1",
