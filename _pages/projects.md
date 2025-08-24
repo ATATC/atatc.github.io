@@ -5,7 +5,7 @@ permalink: /projects/
 description: open-source and maintained by me.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [autonomous racing, medical image processing]
 horizontal: false
 ---
 

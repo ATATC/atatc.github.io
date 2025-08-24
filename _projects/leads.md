@@ -4,7 +4,7 @@ title: LEADS
 description: Lightweight Embedded Assisted Driving System
 img: /assets/img/leads.png
 importance: 1
-category: work
+category: autonomous racing
 related_publications: true
 ---
 
@@ -17,4 +17,4 @@ more popular than ever as the threshold for design and manufacturing has been lo
 inspired by or directly using toolkits and technologies inherited from standardized commercial vehicles. These
 architectures are usually overly complicated for amateur applications like the races. In order to improve the efficiency
 and simplify the development of instrumentation, control, and analysis systems, we propose LEADS (Lightweight Embedded
-Assisted Driving System), a dedicated solution for such scenarios.
+Assisted Driving System), a dedicated solution for such scenarios {% cite fu2024leads %}.
