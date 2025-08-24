@@ -456,12 +456,7 @@ ninja.data = [{
             },},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
           title: 'Joined University of Toronto as an undergraduate student in 2T9 Engineering Science (PEY...',
           description: "",
-          section: "News",},{id: "projects-leads",
-          title: 'LEADS',
-          description: "Lightweight Embedded Assisted Driving System",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
+          section: "News",},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
@@ -501,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-leads",
+          title: 'LEADS',
+          description: "Lightweight Embedded Assisted Driving System",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/leads/";
             },},{
         id: 'social-email',
         title: 'email',
