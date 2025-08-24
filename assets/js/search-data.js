@@ -44,8 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-lab-members",
-          title: "lab members",
+        },{id: "nav-lab",
+          title: "lab",
           description: "realize your innovational ideas with TFu Lab",
           section: "Navigation",
           handler: () => {
