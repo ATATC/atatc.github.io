@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-lab",
           title: "lab",
-          description: "realize your innovational ideas with TFu Lab",
+          description: "where you realize your innovational ideas",
           section: "Navigation",
           handler: () => {
             window.location.href = "/lab/";
