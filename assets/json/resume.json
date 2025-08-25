@@ -1,200 +1,121 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Tianhao Fu",
+    "label": "AI Scientist",
+    "image": "portrait.png",
+    "email": "terry.fu@projectneura.org",
+    "phone": "N/A",
+    "url": "https://atatc.github.io",
+    "summary": "2T9 EngSci at University of Toronto; Intern at Vector Institute; Chief of Project Neura",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Toronto",
+      "countryCode": "CA",
+      "region": "Ontario"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "tianhao-fu-957188279",
+        "url": "https://www.linkedin.com/in/tianhao-fu-957188279"
+      },
+      {
+        "network": "ORCID",
+        "username": "0009-0007-2342-5350",
+        "url": "https://orcid.org/0009-0007-2342-5350"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "_-yZgZ4AAAAJ",
+        "url": "https://scholar.google.com/citations?user=_-yZgZ4AAAAJ"
+      },
+      {
+        "network": "X",
+        "username": "ATATC_A",
+        "url": "https://x.com/ATATC_A"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Project Neura",
+      "position": "Chief",
+      "url": "https://projectneura.org",
+      "startDate": "2019-06-09",
+      "summary": "Gathering researchers and developers to bring their ideas into reality.",
+      "highlights": [
+        "Management"
+      ]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Vector Institute",
+      "position": "Intern",
+      "url": "https://vectorinstitute.ai",
+      "startDate": "2024-08-01",
+      "summary": "Competing in medical AI challenges presented by MICCAI.",
+      "highlights": [
+        "Computer Vision",
+        "Medical Image Processing"
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "institution": "University of Toronto",
+      "location": "Toronto, Ontario, Canada",
+      "url": "https://www.engineering.utoronto.ca",
+      "area": "Engineering Science (PEY Co-op)",
+      "studyType": "BASc",
+      "startDate": "2025-09-02",
+      "endDate": "2029",
+      "score": "0",
+      "courses": [
+        "Machine Intelligence"
+      ]
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A deep learning model for accurate and robust internet traffic classification",
+      "publisher": "Applied and Computational Engineering",
+      "releaseDate": "2023-06-14",
+      "url": "https://doi.org/10.54254/2755-2721/6/20230939",
+      "summary": "Network traffic classification is significant due to the fast growth of the number of internet users. The traditional way of classifying the large number of traffic generated by these users is becoming less effective. Therefore, many researchers made a network traffic classifier based on deep learning. However, those classifiers do not provide far better results and perform poorly when dealing with encrypted information. This paper tries to approach highly accurate and robust results in both encrypted and unencrypted networks by using machine learning algorithms. The algorithm used is the convolutional neural network (CNN). The performance of the proposed CNN is compared with that of the classical LeNet-5 network. Experimental results show that the classifier based on the proposed CNN performed better when dealing with both encrypted and unencrypted datasets, achieving a maximum average accuracy of 83.55%. Moreover, it is not sensitive to hyper-parameter choices, indicating its superiority in robustness. Compared with traditional network classifiers, the network classifier based on CNN can improve accuracy and improve stability."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions – An EndoVis’24 Challenge",
+      "publisher": "arXiv",
+      "releaseDate": "2024-07-16",
+      "url": "https://doi.org/10.48550/arXiv.2407.11906",
+      "summary": "Surgical data science has seen rapid advancement due to the excellent performance of end-to-end deep neural networks (DNNs) for surgical video analysis. Despite their successes, end-to-end DNNs have been proven susceptible to even minor corruptions, substantially impairing the model's performance. This vulnerability has become a major concern for the translation of cutting-edge technology, especially for high-stakes decision-making in surgical data science. We introduce SegSTRONG-C, a benchmark and challenge in surgical data science dedicated, aiming to better understand model deterioration under unforeseen but plausible non-adversarial corruption and the capabilities of contemporary methods that seek to improve it. Through comprehensive baseline experiments and participating submissions from widespread community engagement, SegSTRONG-C reveals key themes for model failure and identifies promising directions for improving robustness. The performance of challenge winners, achieving an average 0.9394 DSC and 0.9301 NSD across the unreleased test sets with corruption types: bleeding, smoke, and low brightness, shows inspiring improvement of 0.1471 DSC and 0.2584 NSD in average comparing to strongest baseline methods with UNet architecture trained with AutoAugment. In conclusion, the SegSTRONG-C challenge has identified some practical approaches for enhancing model robustness, yet most approaches relied on conventional techniques that have known, and sometimes quite severe, limitations. Looking ahead, we advocate for expanding intellectual diversity and creativity in non-adversarial robustness beyond data augmentation or training scale, calling for new paradigms that enhance universal robustness to corruptions and may enable richer applications in surgical data science."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "LEADS: Lightweight Embedded Assisted Driving System",
+      "publisher": "arXiv",
+      "releaseDate": "2024-10-23",
+      "url": "https://doi.org/10.48550/arXiv.2410.17554",
+      "summary": "With the rapid development of electric vehicles, formula races that face high school and university students have become more popular than ever as the threshold for design and manufacturing has been lowered. In many cases, we see teams inspired by or directly using toolkits and technologies inherited from standardized commercial vehicles. These architectures are usually overly complicated for amateur applications like the races. In order to improve the efficiency and simplify the development of instrumentation, control, and analysis systems, we propose LEADS (Lightweight Embedded Assisted Driving System), a dedicated solution for such scenarios."
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
-    {
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "language": "Mandarin",
+      "fluency": "First Language",
+      "icon": ""
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "LEADS",
+      "summary": "Enable your racing car with powerful, data-driven instrumentation, control, and analysis systems, all wrapped up in a gorgeous look.",
+      "startDate": "2023-11-09",
+      "url": "https://leads.projectneura.org"
     }
   ]
 }
