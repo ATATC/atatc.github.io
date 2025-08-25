@@ -1,9 +1,9 @@
 ---
 layout: post
-title: lab's recruiting
-date: 2025-08-23 20:07:00
-description: lab's recruiting
-tags: call university
+title: we're recruiting
+date: 2015-07-15 15:09:00
+description: apply anytime
+tags: formatting code
 categories: sample-posts
 featured: true
 ---
