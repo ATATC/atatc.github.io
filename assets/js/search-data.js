@@ -108,12 +108,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/20250301_0/";
-            },},{id: "news-20250613-0",
-          title: '20250613_0',
+            },},{id: "news-graduated-from-villanova-college-with-an-ontario-secondary-school-diploma-and-an-ontario-scholar",
+          title: 'Graduated from Villanova College with an Ontario Secondary School Diploma and an Ontario...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/20250613_0/";
-            },},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
+          section: "News",},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
           title: 'Joined University of Toronto as an undergraduate student in 2T9 Engineering Science (PEY...',
           description: "",
           section: "News",},{id: "projects-leads",
