@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://vectorinstitute.ai";
               },
-            },{id: "news-founded-project-neura",
+            },{id: "post-we-39-re-recruiting",
+        
+          title: "we&#39;re recruiting",
+        
+        description: "apply anytime",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2015/recruitment/";
+          
+        },
+      },{id: "news-founded-project-neura",
           title: 'Founded Project Neura.',
           description: "",
           section: "News",},{id: "news-moved-to-richmond-hill-ontario-canada",
