@@ -2,14 +2,11 @@
   "basics": {
     "name": "Tianhao Fu",
     "label": "AI Scientist",
-    "image": "portrait.png",
+    "image": "/assets/img/portrait.png",
     "email": "terry.fu@projectneura.org",
-    "phone": "N/A",
     "url": "https://atatc.github.io",
     "summary": "2T9 EngSci at University of Toronto; Intern at Vector Institute; Chief of Project Neura",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Toronto",
       "countryCode": "CA",
       "region": "Ontario"
@@ -58,7 +55,7 @@
   "education": [
     {
       "institution": "University of Toronto",
-      "location": "Toronto, Ontario, Canada",
+      "location": "Canada",
       "url": "https://www.engineering.utoronto.ca",
       "area": "Engineering Science (PEY Co-op)",
       "studyType": "BASc",
