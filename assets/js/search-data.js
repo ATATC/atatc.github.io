@@ -51,7 +51,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/lab/";
           },
-        },{id: "dropdown-project-neura",
+        },{id: "dropdown-steven-chen",
+              title: "Steven Chen",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://stevenchen.site";
+              },
+            },{id: "dropdown-project-neura",
               title: "Project Neura",
               description: "",
               section: "Dropdown",
