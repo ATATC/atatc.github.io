@@ -1,7 +1,7 @@
 ---
 layout: post
 title: we're recruiting
-date: 2025-08-23 14:24:00
+date: 2025-08-23 00:00:00
 description: apply anytime
 tags: call announcement university
 categories: work
