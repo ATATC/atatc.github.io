@@ -65,11 +65,11 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://vectorinstitute.ai";
               },
-            },{id: "post-we-39-re-recruiting",
+            },{id: "post-lab-39-s-recruiting",
         
-          title: "we&#39;re recruiting",
+          title: "lab&#39;s recruiting!",
         
-        description: "apply anytime",
+        description: "apply anytime for these open positions",
         section: "Posts",
         handler: () => {
           
