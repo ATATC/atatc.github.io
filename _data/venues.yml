@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"ACE":
+  url: https://www.ewadirect.com/proceedings/ace/home/index
+  color: "#e9bf4f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"arXiv":
+  url: https://arxiv.org
+  color: "#b31b1b"
