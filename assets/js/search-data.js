@@ -65,18 +65,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://vectorinstitute.ai";
               },
-            },{id: "post-a-post-with-code",
-        
-          title: "a post with code",
-        
-        description: "open-sourcing MIP Candy on Sep 1, 2025",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/code/";
-          
-        },
-      },{id: "news-founded-project-neura",
+            },{id: "news-founded-project-neura",
           title: 'Founded Project Neura.',
           description: "",
           section: "News",},{id: "news-moved-to-richmond-hill-ontario-canada",
