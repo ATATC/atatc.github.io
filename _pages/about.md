@@ -34,9 +34,10 @@ at [Villanova College](https://www.villanovacollege.org). Later I did an interns
 [Vector Institute](https://vectorinstitute.ai).
 
 Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members.
-Noticeably, we developed LEADS as a collaborative project with the VeC team, which is a club in my high school that aims
-to compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still
-active in the VeC Steering Council even though I have left high school.
+Noticeably, we developed LEADS as a collaborative project with the
+[VeC](https://www.villanovacollege.org/student-life/vec-project) team, which is a club in my high school that aims to
+compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still active
+in the VeC Steering Council even though I have left high school.
 
 In summer 2025, I started leading a small research group that aims at conference workshop challenges. We are actively
 recruiting undergraduate or high-school students who have built a certain fundamental understanding in deep learning,
