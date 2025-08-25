@@ -54,13 +54,21 @@
   ],
   "education": [
     {
+      "institution": "St. Thomas of Villanova College",
+      "location": "Canada",
+      "url": "https://www.villanovacollege.org",
+      "studyType": "OSSD",
+      "startDate": "2022-09-06",
+      "endDate": "2025-06-13",
+      "score": "97.33"
+    },
+    {
       "institution": "University of Toronto",
       "location": "Canada",
       "url": "https://www.engineering.utoronto.ca",
       "area": "Engineering Science (PEY Co-op)",
       "studyType": "BASc",
       "startDate": "2025-09-02",
-      "endDate": "2029",
       "score": "0",
       "courses": ["Machine Intelligence"]
     }
