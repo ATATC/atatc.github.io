@@ -8,12 +8,13 @@ category: autonomous racing
 related_publications: true
 ---
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ProjectNeura/MIPCandy)
-![PyPI](https://img.shields.io/pypi/v/mipcandy)
-![GitHub Release](https://img.shields.io/github/v/release/ProjectNeura/MIPCandy)
-![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/ProjectNeura/MIPCandy)
+[![Project](https://img.shields.io/badge/Project-gray?style=for-the-badge)](https://leads.projectneura.org)
+[![arXiv](https://img.shields.io/badge/Preprint-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2410.17554)
+[![GitHub](https://img.shields.io/badge/Repo-060e1a?style=for-the-badge&logo=github)](https://github.com/ProjectNeura/LEADS)
 
-MIP Candy is Project Neura's next-generation infrastructure framework for medical image processing. It integrates a
-handful number of common network architectures with their corresponding training, inference, and evaluation pipelines
-that are out-of-the-box ready to use. Additionally, it also provides adapters to popular frontend dashboards such as
-Notion, WandB, and TensorBoard.
+With the rapid development of electric vehicles, formula races that face high school and university students have become
+more popular than ever as the threshold for design and manufacturing has been lowered. In many cases, we see teams
+inspired by or directly using toolkits and technologies inherited from standardized commercial vehicles. These
+architectures are usually overly complicated for amateur applications like the races. In order to improve the efficiency
+and simplify the development of instrumentation, control, and analysis systems, we propose LEADS (Lightweight Embedded
+Assisted Driving System), a dedicated solution for such scenarios {% cite fu2024leads %}.
