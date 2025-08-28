@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MIP Candy
-description: An Experiment-oriented Modular Infrastructure for Medical Image Processing
+description: A Candy for Medical Image Processing
 img:
 importance: 1
 category: medical image processing
