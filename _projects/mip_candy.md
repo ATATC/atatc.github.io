@@ -8,10 +8,8 @@ category: medical image processing
 related_publications: false
 ---
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/ProjectNeura/MIPCandy)
-![PyPI](https://img.shields.io/pypi/v/mipcandy)
-![GitHub Release](https://img.shields.io/github/v/release/ProjectNeura/MIPCandy)
-![GitHub Release Date - Published_At](https://img.shields.io/github/release-date/ProjectNeura/MIPCandy)
+[![Project](https://img.shields.io/badge/Project-gray?style=for-the-badge)](https://mipcandy.projectneura.org)
+[![GitHub](https://img.shields.io/badge/Repo-060e1a?style=for-the-badge&logo=github)](https://github.com/ProjectNeura/MIPCandy)
 
 MIP Candy is Project Neura's next-generation infrastructure framework for medical image processing. It integrates a
 handful number of common network architectures with their corresponding training, inference, and evaluation pipelines
