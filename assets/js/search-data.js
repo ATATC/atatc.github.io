@@ -121,7 +121,7 @@ ninja.data = [{
               window.location.href = "/projects/leads/";
             },},{id: "projects-mip-candy",
           title: 'MIP Candy',
-          description: "An Experiment-oriented Modular Infrastructure for Medical Image Processing",
+          description: "A Candy for Medical Image Processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mip_candy/";
             },},{
