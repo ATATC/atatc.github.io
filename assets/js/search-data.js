@@ -123,7 +123,7 @@ ninja.data = [{
           title: 'MIP Candy',
           description: "A Candy for Medical Image Processing",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/mip_candy/";
+              window.location.href = "/projects/mipcandy/";
             },},{
         id: 'social-email',
         title: 'email',
