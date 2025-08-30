@@ -132,6 +132,13 @@ ninja.data = [{
           window.open("mailto:%74%65%72%72%79.%66%75@%70%72%6F%6A%65%63%74%6E%65%75%72%61.%6F%72%67", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ATATC", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
