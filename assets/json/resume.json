@@ -44,11 +44,19 @@
       "highlights": ["Management"]
     },
     {
-      "name": "Vector Institute",
+      "name": "Vector Institute (Bo Wang Lab)",
       "position": "Intern",
       "url": "https://vectorinstitute.ai",
       "startDate": "2024-08-01",
       "summary": "Competing in medical AI challenges presented by MICCAI.",
+      "highlights": ["Computer Vision", "Medical Image Processing"]
+    },
+    {
+      "name": "UTMIST",
+      "position": "Research Team Lead",
+      "url": "https://utmist.ca",
+      "startDate": "2025-09-04",
+      "summary": "The AIP Project.",
       "highlights": ["Computer Vision", "Medical Image Processing"]
     }
   ],
