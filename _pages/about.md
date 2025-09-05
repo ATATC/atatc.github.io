@@ -9,7 +9,7 @@ profile:
   image: portrait.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    2T9 EngSci at University of Toronto; Intern at Vector Institute; Chief of Project Neura
+    2T9 EngSci at University of Toronto; Research Team Lead at UTMIST; Intern at Vector Institute; Chief of Project Neura
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
