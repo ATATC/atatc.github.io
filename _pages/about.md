@@ -45,4 +45,4 @@ especially bioinformatics, and are ready to invest a decent amount of time and e
 [me](mailto:terry.fu@projectneura.org) if you are interested.
 
 In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research
-team lead working on AIP.
+team lead working on the AIP project.
