@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: open-source and maintained by me.
+description: open-source and maintained by me. discontinued projects are not listed.
 nav: true
 nav_order: 3
 display_categories: [autonomous racing, medical image processing]
