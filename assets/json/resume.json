@@ -122,6 +122,12 @@
       "summary": "Enable your racing car with powerful, data-driven instrumentation, control, and analysis systems, all wrapped up in a gorgeous look.",
       "startDate": "2023-11-09",
       "url": "https://leads.projectneura.org"
+    },
+    {
+      "name": "MIP Candy",
+      "summary": "A Candy for Medical Image Processing.",
+      "startDate": "2025-08-28",
+      "url": "https://mipcandy.projectneura.org"
     }
   ]
 }
