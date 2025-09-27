@@ -119,7 +119,7 @@
   "projects": [
     {
       "name": "LEADS",
-      "summary": "Enable your racing car with powerful, data-driven instrumentation, control, and analysis systems, all wrapped up in a gorgeous look.",
+      "summary": "Lightweight Embedded Assisted Driving System",
       "startDate": "2023-11-09",
       "url": "https://leads.projectneura.org"
     },
