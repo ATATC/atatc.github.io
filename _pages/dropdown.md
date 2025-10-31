@@ -12,4 +12,6 @@ children:
     permalink: https://projectneura.org
   - title: Vector Institute
     permalink: https://vectorinstitute.ai
+  - title: UTMIST
+    permalink: https://www.utmist.ca
 ---
