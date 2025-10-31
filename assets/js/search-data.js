@@ -72,6 +72,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://vectorinstitute.ai";
               },
+            },{id: "dropdown-utmist",
+              title: "UTMIST",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "https://www.utmist.ca";
+              },
             },{id: "post-lab-39-s-recruiting",
         
           title: "lab&#39;s recruiting!",
