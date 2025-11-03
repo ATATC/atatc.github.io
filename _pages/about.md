@@ -26,8 +26,8 @@ latest_posts:
 ---
 
 I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at the University of
-Toronto St. George. My major interest is in the field of Computer Vision, which includes Autonomous Racing and Medical
-Image Processing. I am also a full-stack developer who mainly focuses on Next.js, SpringBoot, and MySQL.
+Toronto St. George campus. My major interest is in the field of Computer Vision, which includes Autonomous Racing and
+Medical Image Processing. I am also a full-stack developer who mainly focuses on Next.js, SpringBoot, and MySQL.
 
 I started working as a full-stack developer since middle school in Shanghai. My research career started in high school
 at [Villanova College](https://www.villanovacollege.org). Later I did an internship in MIP at
