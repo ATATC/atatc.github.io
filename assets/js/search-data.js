@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-lab-39-s-recruiting",
+            },{id: "post-we-built-a-bridge",
+        
+          title: "we built a bridge",
+        
+        description: "the journey of our term project for CIV102",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/bridge/";
+          
+        },
+      },{id: "post-lab-39-s-recruiting",
         
           title: "lab&#39;s recruiting!",
         
