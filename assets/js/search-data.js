@@ -83,7 +83,7 @@ ninja.data = [{
         
           title: "we built a bridge",
         
-        description: "the journey of our term project for CIV102",
+        description: "a story about how we made into the top tier in the CIV102 term project",
         section: "Posts",
         handler: () => {
           
