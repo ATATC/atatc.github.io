@@ -79,9 +79,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-we-built-a-bridge",
+            },{id: "post-we-built-a-bridge-civ102-bridge-project",
         
-          title: "we built a bridge",
+          title: "we built a bridge - CIV102 Bridge Project",
         
         description: "a story about how we made into the top tier in the CIV102 term project",
         section: "Posts",
