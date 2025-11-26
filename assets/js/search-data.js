@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-i-built-a-pendulum-phy180-pendulum-project",
-        
-          title: "I built a pendulum - PHY180 Pendulum Project",
-        
-        description: "some reflections on the lab report that received a mark of 95",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/pendulum/";
-          
-        },
-      },{id: "post-we-built-a-bridge-civ102-bridge-project",
+            },{id: "post-we-built-a-bridge-civ102-bridge-project",
         
           title: "we built a bridge - CIV102 Bridge Project",
         
