@@ -39,7 +39,7 @@ Noticeably, we developed [LEADS](https://atatc.github.io/projects/leads) as a co
 compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still active
 in the VeC Steering Council even though I have left high school. In addition, we have established a solid foundation in
 the organizational infrastructure that ensures the ability of fast prototyping and continuous delivery. Libraries like
-[MIPCandy](https://atatc.github.io/projects/mipcandy) have witnessed the rapid growth of our community.
+[MIP Candy](https://atatc.github.io/projects/mipcandy) have witnessed the rapid growth of our community.
 
 In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research
 team lead working on the AIP project.
