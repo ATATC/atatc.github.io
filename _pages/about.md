@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -34,15 +34,12 @@ at [Villanova College](https://www.villanovacollege.org). Later I did an interns
 [Vector Institute](https://vectorinstitute.ai).
 
 Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members.
-Noticeably, we developed LEADS as a collaborative project with the
+Noticeably, we developed [LEADS](https://atatc.github.io/projects/leads) as a collaborative project with the
 [VeC](https://www.villanovacollege.org/student-life/vec-project) team, which is a club in my high school that aims to
 compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). I'm still active
-in the VeC Steering Council even though I have left high school.
-
-In summer 2025, I started leading a small research group that aims at conference workshop challenges. We are actively
-recruiting undergraduate or high-school students who have built a certain fundamental understanding in deep learning,
-especially bioinformatics, and are ready to invest a decent amount of time and effort. Feel free to reach out to
-[me](mailto:terry.fu@projectneura.org) if you are interested.
+in the VeC Steering Council even though I have left high school. In addition, we have established a solid foundation in
+the organizational infrastructure that ensures the ability of fast prototyping and continuous delivery. Libraries like
+[MIPCandy](https://atatc.github.io/projects/mipcandy) have witnessed the rapid growth of our community.
 
 In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research
 team lead working on the AIP project.
