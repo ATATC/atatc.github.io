@@ -83,7 +83,7 @@ ninja.data = [{
         
           title: "I built a pendulum - PHY180 Pendulum Project",
         
-        description: "some reflections on the lab report that received a mark of 95",
+        description: "some reflections on the lab report",
         section: "Posts",
         handler: () => {
           
