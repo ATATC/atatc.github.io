@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-i-built-a-pendulum-phy180-pendulum-project",
+            },{id: "post-macos-or-windows-which-is-better-for-developers",
+        
+          title: "macOS or Windows, which is better for developers?",
+        
+        description: "my personal experience using both systems for over 10 years",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/macos-vs-windows/";
+          
+        },
+      },{id: "post-i-built-a-pendulum-phy180-pendulum-project",
         
           title: "I built a pendulum - PHY180 Pendulum Project",
         
