@@ -38,6 +38,8 @@ know why, but my suspicion is in the memory sticks. One thing I soon liked about
 it running 24/7 without worrying about it going to sleep. In contrast, there were many times when I found my laptop had
 just randomly rebooted sometime between when I folded it and when I opened it.
 
+{% include figure.liquid loading="eager" path="/assets/img/2025-12-01-macos-vs-windows/maximus.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+
 In 2019, I bought the last Apple MacBook Pro that had an Intel chip in it - the 2019 MacBook Pro 16 with an 8-core 2.4
 GHz Intel Core i9 and an AMD Radeon Pro 5600M GPU with 8 GB of HBM2 memory. Everywhere, from the touch bar to the OS
 icons, showed me Apple's superior aesthetics over Microsoft, yet the hot-surface issue remained (thanks to Intel).
