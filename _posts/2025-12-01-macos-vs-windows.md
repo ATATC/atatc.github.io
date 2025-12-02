@@ -40,7 +40,7 @@ just randomly rebooted sometime between when I folded it and when I opened it.
 
 In 2019, I bought the last Apple MacBook Pro that had an Intel chip in it - the 2019 MacBook Pro 16 with an 8-core 2.4
 GHz Intel Core i9 and an AMD Radeon Pro 5600M GPU with 8 GB of HBM2 memory. Everywhere, from the touch bar to the OS
-icons, showed me Apple's superior aesthetics over Microsoft, yet the hot-surface issue remained.
+icons, showed me Apple's superior aesthetics over Microsoft, yet the hot-surface issue remained (thanks to Intel).
 
 In early 2021, I upgraded my workstation by replacing the motherboard and processor with a new AMD Ryzen 9 5900X and the
 corresponding ROG motherboard.
