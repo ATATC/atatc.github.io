@@ -6,8 +6,8 @@ subtitle: also known as Terry Fu. Toronto, Ontario, Canada.
 
 profile:
   align: right
-  image: portrait.png
-  image_circular: false # crops the image to make it circular
+  image: /assets/img/selfie.jpg
+  image_circular: false
   more_info: >
     2T9 EngSci at University of Toronto; Research Team Lead at UTMIST; Intern at Vector Institute; Chief of Project Neura
 
