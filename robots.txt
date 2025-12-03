@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://atatc.github.io/sitemap.xml
+Sitemap: https://atatc.me/sitemap.xml
