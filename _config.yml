@@ -14,7 +14,7 @@ lang: en
 icon: 🙂
 
 url: https://atatc.me
-baseurl:
+baseurl: ""
 last_updated: false
 impressum_path:
 back_to_top: true
