@@ -81,6 +81,29 @@
       "courses": ["Machine Intelligence"]
     }
   ],
+  "awards": [
+    {
+      "title": "Digital Citizenship Graduation Award",
+      "date": "2025",
+      "awarder": "STEM Fellowship, Royal Bank of Canada, LinkedIn Learning, and Villanova College",
+      "url": "https://live.stemfellowship.org/digital-citizenship-graduation-award",
+      "summary": "In recognition of exemplary digital leadership and the promotion of Canadian values."
+    },
+    {
+      "title": "Ontario Scholar",
+      "date": "2025",
+      "awarder": "Ontario Ministry of Education"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "IELTS English Proficiency Test (8.0 / 9.0)",
+      "date": "2024-08-19",
+      "issuer": "British Council, IDP IELTS, and Cambridge University Press & Assessment",
+      "url": "https://www.ielts.ca",
+      "icon": "fa-certificate"
+    }
+  ],
   "publications": [
     {
       "name": "A deep learning model for accurate and robust internet traffic classification",
