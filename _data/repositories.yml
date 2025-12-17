@@ -1,8 +1,11 @@
 github_users:
   - ATATC
 
-repo_description_lines_max: 2
+repo_description_lines_max: 4
 
 github_repos:
+  - ProjectNeura/MIPCandy
   - ProjectNeura/LEADS
+  - ATATC/CIV102-Bridge-Project
+  - ATATC/Pendulum-Project
   - ATATC/CSISU23
