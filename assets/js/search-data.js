@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-i-built-a-pendulum-phy180-pendulum-project",
+            },{id: "post-we-built-a-bridge-civ102-bridge-project",
+        
+          title: "we built a bridge - CIV102 Bridge Project",
+        
+        description: "CIV102 Final Exam Aid Sheet",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/civ-aid/";
+          
+        },
+      },{id: "post-i-built-a-pendulum-phy180-pendulum-project",
         
           title: "I built a pendulum - PHY180 Pendulum Project",
         
