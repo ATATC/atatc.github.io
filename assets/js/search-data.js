@@ -83,7 +83,7 @@ ninja.data = [{
         
           title: "CIV102 aid sheet",
         
-        description: "CIV102 Final Exam Aid Sheet",
+        description: "aid sheet for CIV102 final exam",
         section: "Posts",
         handler: () => {
           
