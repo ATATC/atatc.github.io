@@ -160,7 +160,7 @@
       "name": "LEADS",
       "summary": "Lightweight Embedded Assisted Driving System",
       "startDate": "2023-11-09",
-      "endData": "2025-06-01",
+      "endDate": "2025-09-01",
       "url": "https://leads.projectneura.org",
       "highlights": [
         "Developed an onboard instrumentation system that displays data like the wheel speed",
