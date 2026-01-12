@@ -41,15 +41,23 @@
       "url": "https://projectneura.org",
       "startDate": "2019-06-09",
       "summary": "Gathering researchers and developers to bring their ideas into reality. Developed projects like LEADS and MIP Candy.",
-      "highlights": ["Management"]
+      "highlights": [
+        "Developed MIP Candy (A Candy for Medical Image Processing)",
+        "Developed LEADS (Lightweight Embedded Assisted Driving System)",
+        "Built an infrastructure cloud compute platform with Docker"
+      ]
     },
     {
       "name": "Vector Institute (Bo Wang Lab)",
-      "position": "Intern",
+      "position": "Research Intern",
       "url": "https://vectorinstitute.ai",
       "startDate": "2024-08-01",
-      "summary": "Ranked 4th in the PANORAMA Challenge and 4th in the SegSTRONG-C Challenge.",
-      "highlights": ["Computer Vision", "Medical Image Processing"]
+      "summary": "Competing in medical AI challenges presented by MICCAI.",
+      "highlights": [
+        "Ranked 4th in the PANORAMA Challenge",
+        "Ranked 4th in the SegSTRONG-C Challenge",
+        "Helped with Fast nnU-Net"
+      ]
     },
     {
       "name": "UTMIST",
@@ -57,7 +65,7 @@
       "url": "https://utmist.ca",
       "startDate": "2025-09-04",
       "summary": "The AIP Project.",
-      "highlights": ["Computer Vision", "Medical Image Processing"]
+      "highlights": ["Developed the AIP Project (Automated Iterative Pseudo-labeling)"]
     }
   ],
   "education": [
@@ -153,13 +161,49 @@
       "summary": "Lightweight Embedded Assisted Driving System",
       "startDate": "2023-11-09",
       "endData": "2025-06-01",
-      "url": "https://leads.projectneura.org"
+      "url": "https://leads.projectneura.org",
+      "highlights": [
+        "Developed an onboard instrumentation system that displays data like the wheel speed",
+        "Developed a webpage dashboard that remotely monitors the vehicles’ status from the Pit crew",
+        "Developed a multi-camera streaming and recording system",
+        "Developed support for saving and replaying vehicle data",
+        "Developed an efficient real-time data link using pure TCP/IP",
+        "Developed a data analysis tool set that teaches the driver how to drive",
+        "Customized the Ubuntu OS",
+        "Developed support for multiple screens",
+        "Developed GPS support"
+      ]
     },
     {
       "name": "MIP Candy",
       "summary": "A Candy for Medical Image Processing",
       "startDate": "2025-08-28",
-      "url": "https://mipcandy.projectneura.org"
+      "url": "https://mipcandy.projectneura.org",
+      "highlights": [
+        "Developed a framework that brings ready-to-use training, inference, and evaluation pipelines together with aesthetics, so users can focus on their experiments, not boilerplate",
+        "Developed a visualization system that helps the user see the complex data",
+        "Accelerated training with a preloading mechanism",
+        "Accelerated sliding window custom CUDA kernels"
+      ]
+    },
+    {
+      "name": "The AIP Project",
+      "summary": "Automated Iterative Pseudo-labeling",
+      "startDate": "2025-09-01",
+      "highlights": [
+        "Proposed an innovative way to make pseudo-labeling more efficient and effective"
+      ]
+    },
+    {
+      "name": "CIV102 Bridge Project",
+      "summary": "Best Winner Solution for Automated Calculation and Optimization with Extensive Docs",
+      "startDate": "2025-11-14",
+      "highlights": [
+        "Top 1 in the cohort and 2nd in the class of 2025",
+        "Developed a complex cross-section composition and solving system",
+        "Developed a bridge solver",
+        "Calculated the optimal cross-section dimensions by turning the design into a COP (Convex Optimization Problem)"
+      ]
     }
   ]
 }
