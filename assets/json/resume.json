@@ -84,7 +84,7 @@
       "studyType": "OSSD and AP",
       "startDate": "2022-09-06",
       "endDate": "2025-06-13",
-      "score": "97.33"
+      "score": "97.33 / 100"
     },
     {
       "institution": "University of Toronto",
@@ -93,7 +93,7 @@
       "area": "Engineering Science (PEY Co-op)",
       "studyType": "BASc",
       "startDate": "2025-09-02",
-      "score": "0",
+      "score": "3.88 / 4.00",
       "courses": ["Machine Intelligence"]
     }
   ],
