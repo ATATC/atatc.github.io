@@ -93,11 +93,17 @@
       "area": "Engineering Science (PEY Co-op)",
       "studyType": "BASc",
       "startDate": "2025-09-02",
-      "score": "3.88 / 4.00",
+      "score": "3.88 / 4.00; 88.2 / 100",
       "courses": ["Machine Intelligence"]
     }
   ],
   "awards": [
+    {
+      "title": "Dean's Honour List",
+      "date": "2026",
+      "awarder": "University of Toronto",
+      "summary": "Awarded for outstanding academic performance."
+    },
     {
       "title": "Digital Citizenship Graduation Award",
       "date": "2025",
