@@ -2,6 +2,10 @@
   url: https://www.ewadirect.com/proceedings/ace/home/index
   color: "#e9bf4f"
 
+"Lancet Oncology":
+  url: https://www.sciencedirect.com/journal/the-lancet-oncology
+  color: "#ff0000"
+
 "arXiv":
   url: https://arxiv.org
   color: "#b31b1b"
