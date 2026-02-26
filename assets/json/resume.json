@@ -154,6 +154,13 @@
       "releaseDate": "2025-02-24",
       "url": "https://doi.org/10.48550/arXiv.2602.21033",
       "summary": "Medical image processing demands specialized software that handles high-dimensional volumetric data, heterogeneous file formats, and domain-specific training procedures. Existing frameworks either provide low-level components that require substantial integration effort or impose rigid, monolithic pipelines that resist modification. We present MIP Candy (MIPCandy), a freely available, PyTorch-based framework designed specifically for medical image processing. MIPCandy provides a complete, modular pipeline spanning data loading, training, inference, and evaluation, allowing researchers to obtain a fully functional process workflow by implementing a single method, \uD835\uDE8B\uD835\uDE9E\uD835\uDE92\uD835\uDE95\uD835\uDE8D_\uD835\uDE97\uD835\uDE8E\uD835\uDE9D\uD835\uDEA0\uD835\uDE98\uD835\uDE9B\uD835\uDE94, while retaining fine-grained control over every component. Central to the design is \uD835\uDE7B\uD835\uDE8A\uD835\uDEA2\uD835\uDE8E\uD835\uDE9B\uD835\uDE83, a deferred configuration mechanism that enables runtime substitution of convolution, normalization, and activation modules without subclassing. The framework further offers built-in k-fold cross-validation, dataset inspection with automatic region-of-interest detection, deep supervision, exponential moving average, multi-frontend experiment tracking (Weights & Biases, Notion, MLflow), training state recovery, and validation score prediction via quotient regression. An extensible bundle ecosystem provides pre-built model implementations that follow a consistent trainer--predictor pattern and integrate with the core framework without modification. MIPCandy is open-source under the Apache-2.0 license and requires Python~3.12 or later."
+    },
+    {
+      "name": "Artificial intelligence and radiologists in pancreatic cancer detection using standard of care CT scans (PANORAMA): an international, paired, non-inferiority, confirmatory, observational study",
+      "publisher": "Lancet Oncology",
+      "releaseDate": "2025-11-20",
+      "url": "https://doi.org/10.1016/S1470-2045(25)00567-4",
+      "summary": "Pancreatic ductal adenocarcinoma (PDAC) has the worst prognosis among major cancer types, primarily due to late diagnosis on contrast-enhanced CT. Artificial intelligence (AI) can improve diagnostic performance, but robust benchmarks and reliable comparison to radiologists' performance are scarce. We established an open-source benchmark with the aim of investigating AI systems for PDAC detection on CT and compared them to radiologists' performance, at scale."
     }
   ],
   "languages": [
