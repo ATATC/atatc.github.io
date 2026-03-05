@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-civ102-aid-sheet",
+            },{id: "post-lers",
+        
+          title: "LERS",
+        
+        description: "a lightweight energy recovery system for electric go-karts",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lers/";
+          
+        },
+      },{id: "post-civ102-aid-sheet",
         
           title: "CIV102 aid sheet",
         
