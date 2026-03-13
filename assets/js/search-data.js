@@ -79,7 +79,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-civ102-aid-sheet",
+            },{id: "post-a-dev-post-about-uncertainty",
+        
+          title: "a dev post about uncertainty",
+        
+        description: "SegWithU dev post",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/swu/";
+          
+        },
+      },{id: "post-lers",
+        
+          title: "LERS",
+        
+        description: "a lightweight energy recovery system for electric go-karts",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/lers/";
+          
+        },
+      },{id: "post-civ102-aid-sheet",
         
           title: "CIV102 aid sheet",
         
@@ -99,17 +121,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/pendulum/";
-          
-        },
-      },{id: "post-lers",
-        
-          title: "LERS",
-        
-        description: "a lightweight energy recovery system for electric go-karts",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/lers/";
           
         },
       },{id: "post-we-built-a-bridge-civ102-bridge-project",
