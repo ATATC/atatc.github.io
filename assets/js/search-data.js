@@ -123,17 +123,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/bridge/";
           
         },
-      },{id: "post-lab-39-s-recruiting",
-        
-          title: "lab&#39;s recruiting!",
-        
-        description: "apply anytime for these open positions",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/recruitment/";
-          
-        },
       },{id: "news-founded-project-neura",
           title: 'Founded Project Neura.',
           description: "",
