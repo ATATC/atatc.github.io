@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-a-dev-post-about-uncertainty",
-        
-          title: "a dev post about uncertainty",
-        
-        description: "SegWithU dev post",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/swu/";
-          
-        },
-      },{id: "post-lers",
+            },{id: "post-lers",
         
           title: "LERS",
         
@@ -192,6 +181,11 @@ ninja.data = [{
           description: "A Candy for Medical Image Processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mipcandy/";
+            },},{id: "projects-segwithu",
+          title: 'SegWithU',
+          description: "Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/segwithu/";
             },},{
         id: 'social-cv',
         title: 'CV',
