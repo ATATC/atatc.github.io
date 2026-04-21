@@ -160,7 +160,12 @@ ninja.data = [{
           section: "News",},{id: "news-joined-utmist-as-an-internal-research-team-lead",
           title: 'Joined UTMIST as an internal research team lead.',
           description: "",
-          section: "News",},{id: "projects-leads",
+          section: "News",},{id: "projects-erbium",
+          title: 'Erbium',
+          description: "Compute Platform",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/erbium/";
+            },},{id: "projects-leads",
           title: 'LEADS',
           description: "Lightweight Embedded Assisted Driving System",
           section: "Projects",handler: () => {
