@@ -4,7 +4,7 @@ title: MIP Candy
 description: A Candy for Medical Image Processing
 img: /assets/img/mipcandy.png
 importance: 1
-category: medical image processing
+category: research
 related_publications: true
 ---
 

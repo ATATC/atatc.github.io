@@ -4,7 +4,7 @@ title: LEADS
 description: Lightweight Embedded Assisted Driving System
 img: /assets/img/leads.png
 importance: 1
-category: autonomous racing
+category: engineering
 related_publications: true
 ---
 
