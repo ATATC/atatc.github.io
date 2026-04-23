@@ -49,17 +49,6 @@
     },
     {
       "name": "Vector Institute (Bo Wang Lab)",
-      "position": "Student Researcher",
-      "url": "https://vectorinstitute.ai",
-      "startDate": "2025-09-01",
-      "summary": "Working on MICCAI FLARE 2026.",
-      "highlights": [
-        "Helping to manage the challenge",
-        "Building SOTA multimodal medical image models"
-      ]
-    },
-    {
-      "name": "Vector Institute (Bo Wang Lab)",
       "position": "Research Intern",
       "url": "https://vectorinstitute.ai",
       "startDate": "2024-08-01",
@@ -80,6 +69,18 @@
       "highlights": [
         "The SegWithU Project (SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation)",
         "The AIP Project (Automated Iterative Pseudo-labeling)"
+      ]
+    },
+    {
+      "name": "University Health Network (Dr. Jun Ma)",
+      "position": "Student Researcher",
+      "url": "https://vectorinstitute.ai",
+      "startDate": "2026-04-22",
+      "summary": "Working on MICCAI FLARE 2026.",
+      "highlights": [
+        "Helping to manage the MICCAI FLARE 2026 challenge",
+        "Fine-tuned MedGemma 1.5 as one of the baselines",
+        "Building SOTA multimodal medical image models"
       ]
     }
   ],
