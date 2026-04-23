@@ -9,7 +9,7 @@ profile:
   image: selfie.jpg
   image_circular: false
   more_info: >
-    2T9 EngSci at University of Toronto; Research Team Lead at UTMIST; Researcher at Vector Institute; Chief of Project Neura
+    2T9 EngSci at University of Toronto; Student at UHN; Research Team Lead at UTMIST; Chief of Project Neura; Previously at Vector Institute;
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
