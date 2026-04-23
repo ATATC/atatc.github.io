@@ -49,9 +49,21 @@
     },
     {
       "name": "Vector Institute (Bo Wang Lab)",
+      "position": "Student Researcher",
+      "url": "https://vectorinstitute.ai",
+      "startDate": "2025-09-01",
+      "summary": "Working on MICCAI FLARE 2026.",
+      "highlights": [
+        "Helping to manage the challenge",
+        "Building SOTA multimodal medical image models"
+      ]
+    },
+    {
+      "name": "Vector Institute (Bo Wang Lab)",
       "position": "Research Intern",
       "url": "https://vectorinstitute.ai",
       "startDate": "2024-08-01",
+      "endDate": "2025-09-01",
       "summary": "Competing in medical AI challenges presented by MICCAI.",
       "highlights": [
         "Ranked 4th in the PANORAMA Challenge",
@@ -64,8 +76,11 @@
       "position": "Research Team Lead",
       "url": "https://utmist.ca",
       "startDate": "2025-09-04",
-      "summary": "The AIP Project.",
-      "highlights": ["Developed the AIP Project (Automated Iterative Pseudo-labeling)"]
+      "summary": "Researching on downstream tasks in medical image processing.",
+      "highlights": [
+        "The SegWithU Project (SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation)",
+        "The AIP Project (Automated Iterative Pseudo-labeling)"
+      ]
     }
   ],
   "education": [
@@ -124,36 +139,6 @@
       "issuer": "British Council, IDP IELTS, and Cambridge University Press & Assessment",
       "url": "https://www.ielts.ca",
       "icon": "fa-solid fa-hashtag"
-    }
-  ],
-  "publications": [
-    {
-      "name": "SegSTRONG-C: Segmenting Surgical Tools Robustly On Non-adversarial Generated Corruptions – An EndoVis’24 Challenge",
-      "publisher": "arXiv",
-      "releaseDate": "2024-07-16",
-      "url": "https://doi.org/10.48550/arXiv.2407.11906",
-      "summary": "Surgical data science has seen rapid advancement due to the excellent performance of end-to-end deep neural networks (DNNs) for surgical video analysis. Despite their successes, end-to-end DNNs have been proven susceptible to even minor corruptions, substantially impairing the model's performance. This vulnerability has become a major concern for the translation of cutting-edge technology, especially for high-stakes decision-making in surgical data science. We introduce SegSTRONG-C, a benchmark and challenge in surgical data science dedicated, aiming to better understand model deterioration under unforeseen but plausible non-adversarial corruption and the capabilities of contemporary methods that seek to improve it. Through comprehensive baseline experiments and participating submissions from widespread community engagement, SegSTRONG-C reveals key themes for model failure and identifies promising directions for improving robustness. The performance of challenge winners, achieving an average 0.9394 DSC and 0.9301 NSD across the unreleased test sets with corruption types: bleeding, smoke, and low brightness, shows inspiring improvement of 0.1471 DSC and 0.2584 NSD in average comparing to strongest baseline methods with UNet architecture trained with AutoAugment. In conclusion, the SegSTRONG-C challenge has identified some practical approaches for enhancing model robustness, yet most approaches relied on conventional techniques that have known, and sometimes quite severe, limitations. Looking ahead, we advocate for expanding intellectual diversity and creativity in non-adversarial robustness beyond data augmentation or training scale, calling for new paradigms that enhance universal robustness to corruptions and may enable richer applications in surgical data science."
-    },
-    {
-      "name": "LEADS: Lightweight Embedded Assisted Driving System",
-      "publisher": "arXiv",
-      "releaseDate": "2024-10-23",
-      "url": "https://doi.org/10.48550/arXiv.2410.17554",
-      "summary": "With the rapid development of electric vehicles, formula races that face high school and university students have become more popular than ever as the threshold for design and manufacturing has been lowered. In many cases, we see teams inspired by or directly using toolkits and technologies inherited from standardized commercial vehicles. These architectures are usually overly complicated for amateur applications like the races. In order to improve the efficiency and simplify the development of instrumentation, control, and analysis systems, we propose LEADS (Lightweight Embedded Assisted Driving System), a dedicated solution for such scenarios."
-    },
-    {
-      "name": "MIP Candy: A Modular PyTorch Framework for Medical Image Processing",
-      "publisher": "arXiv",
-      "releaseDate": "2026-02-24",
-      "url": "https://doi.org/10.48550/arXiv.2602.21033",
-      "summary": "Medical image processing demands specialized software that handles high-dimensional volumetric data, heterogeneous file formats, and domain-specific training procedures. Existing frameworks either provide low-level components that require substantial integration effort or impose rigid, monolithic pipelines that resist modification. We present MIP Candy (MIPCandy), a freely available, PyTorch-based framework designed specifically for medical image processing. MIPCandy provides a complete, modular pipeline spanning data loading, training, inference, and evaluation, allowing researchers to obtain a fully functional process workflow by implementing a single method, \uD835\uDE8B\uD835\uDE9E\uD835\uDE92\uD835\uDE95\uD835\uDE8D_\uD835\uDE97\uD835\uDE8E\uD835\uDE9D\uD835\uDEA0\uD835\uDE98\uD835\uDE9B\uD835\uDE94, while retaining fine-grained control over every component. Central to the design is \uD835\uDE7B\uD835\uDE8A\uD835\uDEA2\uD835\uDE8E\uD835\uDE9B\uD835\uDE83, a deferred configuration mechanism that enables runtime substitution of convolution, normalization, and activation modules without subclassing. The framework further offers built-in k-fold cross-validation, dataset inspection with automatic region-of-interest detection, deep supervision, exponential moving average, multi-frontend experiment tracking (Weights & Biases, Notion, MLflow), training state recovery, and validation score prediction via quotient regression. An extensible bundle ecosystem provides pre-built model implementations that follow a consistent trainer--predictor pattern and integrate with the core framework without modification. MIPCandy is open-source under the Apache-2.0 license and requires Python~3.12 or later."
-    },
-    {
-      "name": "Artificial intelligence and radiologists in pancreatic cancer detection using standard of care CT scans (PANORAMA): an international, paired, non-inferiority, confirmatory, observational study",
-      "publisher": "Lancet Oncology",
-      "releaseDate": "2025-11-20",
-      "url": "https://doi.org/10.1016/S1470-2045(25)00567-4",
-      "summary": "Pancreatic ductal adenocarcinoma (PDAC) has the worst prognosis among major cancer types, primarily due to late diagnosis on contrast-enhanced CT. Artificial intelligence (AI) can improve diagnostic performance, but robust benchmarks and reliable comparison to radiologists' performance are scarce. We established an open-source benchmark with the aim of investigating AI systems for PDAC detection on CT and compared them to radiologists' performance, at scale."
     }
   ],
   "languages": [
@@ -218,6 +203,17 @@
         "Developed a complex cross-section composition and solving system",
         "Developed a bridge solver",
         "Calculated the optimal cross-section dimensions by turning the design into a COP (Convex Optimization Problem)"
+      ]
+    },
+    {
+      "name": "SegWithU",
+      "summary": "Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation",
+      "startDate": "2026-02-01",
+      "endDate": "2026-04-18",
+      "url": "https://segwithu.projectneura.org",
+      "highlights": [
+        "Proposed a novel single-forward-pass uncertainty estimation method that models uncertainty as perturbation energy",
+        "Conducted experiments that show SOTA performance on ACDC, BraTS2024, and LiTS datasets"
       ]
     }
   ]
