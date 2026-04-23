@@ -188,6 +188,7 @@
       "name": "The AIP Project",
       "summary": "Automated Iterative Pseudo-labeling",
       "startDate": "2025-09-01",
+      "endDate": "2026-02-01",
       "highlights": [
         "Proposed an innovative way to make pseudo-labeling more efficient and effective"
       ]
