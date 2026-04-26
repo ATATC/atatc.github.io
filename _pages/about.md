@@ -30,7 +30,7 @@ Toronto St. George campus. My major interest is in the field of Computer Vision,
 Medical Image Processing. I am also a full-stack developer who mainly focuses on Next.js, SpringBoot, and MySQL.
 
 I started working as a full-stack developer since middle school in Shanghai. My research career started in high school
-at [Villanova College](https://www.villanovacollege.org). Later I did an internship in MIP at
+at [Villanova College](https://www.villanovacollege.org). Later I did an internship in medical image processing at
 [Vector Institute](https://vectorinstitute.ai).
 
 Earlier in 2019, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members.
@@ -43,4 +43,6 @@ the organizational infrastructure that ensures the ability of fast prototyping a
 growth of our community.
 
 In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research
-team lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu).
+team lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu). Later in the
+summer, I joined [University Health Network](https://uhn.ca) (Princess Margaret Cancer Centre) to work as an
+undergraduate student researcher.
