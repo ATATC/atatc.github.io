@@ -74,13 +74,23 @@
     {
       "name": "University Health Network (Dr. Jun Ma)",
       "position": "Student Researcher",
-      "url": "https://vectorinstitute.ai",
+      "url": "https://www.uhn.ca/",
       "startDate": "2026-04-22",
-      "summary": "Working on MICCAI FLARE 2026.",
+      "summary": "Working on medical MLLMs.",
       "highlights": [
         "Helping to manage the MICCAI FLARE 2026 challenge",
         "Fine-tuned MedGemma 1.5 as one of the baselines",
         "Building SOTA multimodal medical image models"
+      ]
+    },
+    {
+      "name": "Shanghai Jiao Tong University (Dr. Bin Sheng)",
+      "position": "Research Assistant",
+      "url": "https://en.sjtu.edu.cn/",
+      "startDate": "2026-05-01",
+      "summary": "Working on systematic reviews.",
+      "highlights": [
+        "Working on \"Who Does Medical AI Serve? Hidden Institutional Logics Behind Clinical AI\""
       ]
     }
   ],
