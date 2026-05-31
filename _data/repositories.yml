@@ -6,6 +6,10 @@ repo_description_lines_max: 4
 github_repos:
   - ProjectNeura/MIPCandy
   - ProjectNeura/LEADS
+  - ProjectNeura/SegWithU
+  - ProjectNeura/MLE
+  - ProjectNeura/Erbium
+  - ATATC/MedGemma-FLARE-2D
+  - ATATC/DRA-config
   - ATATC/CIV102-Bridge-Project
-  - ATATC/Pendulum-Project
-  - ATATC/CSISU23
+  - ATATC/SortScrews
