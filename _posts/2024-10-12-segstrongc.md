@@ -6,7 +6,8 @@ description: we ranked 4th in the SegSTRONG-C challenge
 tags: deep-learning announcement
 categories: work
 featured: false
-citation: true
+citation: false
+related_publications: true
 ---
 
 Team: Tianhao Fu, Jun Ma, Bo Wang
