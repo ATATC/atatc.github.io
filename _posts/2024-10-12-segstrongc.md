@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4th in the SegSTRONG-C challenge
-date: 2026-07-03 00:00:00
+date: 2024-10-12 00:00:00
 description: we ranked 4th in the SegSTRONG-C challenge
 tags: deep-learning announcement
 categories: work
