@@ -79,7 +79,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://www.utmist.ca";
               },
-            },{id: "post-lers",
+            },{id: "post-minicourse-mllm",
+        
+          title: "MiniCourse - MLLM",
+        
+        description: "a mini course on multi-modal large language models",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/minicourse-mllm/";
+          
+        },
+      },{id: "post-4th-in-the-panorama-challenge",
+        
+          title: "4th in the PANORAMA Challenge",
+        
+        description: "we ranked 4th in the PANORAMA Challenge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/panorama/";
+          
+        },
+      },{id: "post-4th-in-the-segstrong-c-challenge",
+        
+          title: "4th in the SegSTRONG-C challenge",
+        
+        description: "we ranked 4th in the SegSTRONG-C challenge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/segstrongc/";
+          
+        },
+      },{id: "post-lers",
         
           title: "LERS",
         
@@ -126,14 +159,8 @@ ninja.data = [{
       },{id: "news-founded-project-neura",
           title: 'Founded Project Neura.',
           description: "",
-          section: "News",},{id: "news-moved-to-richmond-hill-ontario-canada",
-          title: 'Moved to Richmond Hill, Ontario, Canada.',
-          description: "",
           section: "News",},{id: "news-joined-villanova-college-as-a-grade-10-student",
           title: 'Joined Villanova College as a Grade 10 student.',
-          description: "",
-          section: "News",},{id: "news-launched-the-leads-project",
-          title: 'Launched the LEADS project.',
           description: "",
           section: "News",},{id: "news-joined-vector-institute-as-an-intern-in-bo-wang-lab",
           title: 'Joined Vector Institute as an intern in Bo Wang Lab.',
@@ -151,9 +178,6 @@ ninja.data = [{
             },},{id: "news-graduated-from-villanova-college-with-an-ontario-secondary-school-diploma-and-an-ontario-scholar",
           title: 'Graduated from Villanova College with an Ontario Secondary School Diploma and an Ontario...',
           description: "",
-          section: "News",},{id: "news-open-sourced-mip-candy",
-          title: 'Open-sourced MIP Candy.',
-          description: "",
           section: "News",},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
           title: 'Joined University of Toronto as an undergraduate student in 2T9 Engineering Science (PEY...',
           description: "",
@@ -165,9 +189,6 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-shanghai-jiao-tong-university-as-a-part-time-research-assistant-under-the-supervision-of-dr-bin-sheng",
           title: 'Joined Shanghai Jiao Tong University as a part-time research assistant under the supervision...',
-          description: "",
-          section: "News",},{id: "news-the-work-done-at-uhn-has-gone-live-minicourse-mllm",
-          title: 'The work done at UHN has gone live! MiniCourse - MLLM',
           description: "",
           section: "News",},{id: "projects-erbium",
           title: 'Erbium',
