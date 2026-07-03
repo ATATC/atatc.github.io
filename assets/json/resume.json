@@ -79,7 +79,6 @@
       "summary": "Working on medical MLLMs.",
       "highlights": [
         "Helping to manage the MICCAI FLARE 2026 challenge",
-        "Fine-tuned MedGemma 1.5 as one of the baselines",
         "Building SOTA multimodal medical image models"
       ]
     },
