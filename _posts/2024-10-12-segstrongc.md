@@ -1,0 +1,33 @@
+---
+layout: post
+title: 4th in the SegSTRONG-C challenge
+date: 2026-07-03 00:00:00
+description: we ranked 4th in the SegSTRONG-C challenge
+tags: deep-learning announcement
+categories: work
+featured: false
+citation: true
+---
+
+Team: Tianhao Fu, Jun Ma, Bo Wang
+
+[![arXiv](https://img.shields.io/badge/Preprint-b31b1b?style=for-the-badge&logo=arxiv)](https://arxiv.org/abs/2407.11906)
+[![GitHub](https://img.shields.io/badge/Repo-060e1a?style=for-the-badge&logo=github)](https://github.com/ProjectNeura/SegSTRONGC)
+
+Information about the challenge can be found [here](https://segstrongc.cs.jhu.edu).
+
+---
+
+Congratulations to SegSTRONG-C on its successful report on MICCAI 2024! Great thanks to Dr. Ma and Dr. Wang. It
+wouldn't be possible without your support.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/news/20241012_0.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="/assets/img/news/20241012_1.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+We actually beat the third team on 6/10 metrics {% cite ding2024segstrongc %}.
