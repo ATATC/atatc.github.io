@@ -90,28 +90,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/minicourse-mllm/";
           
         },
-      },{id: "post-4th-in-the-panorama-challenge",
-        
-          title: "4th in the PANORAMA Challenge",
-        
-        description: "we ranked 4th in the PANORAMA Challenge",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/panorama/";
-          
-        },
-      },{id: "post-4th-in-the-segstrong-c-challenge",
-        
-          title: "4th in the SegSTRONG-C challenge",
-        
-        description: "we ranked 4th in the SegSTRONG-C challenge",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/segstrongc/";
-          
-        },
       },{id: "post-lers",
         
           title: "LERS",
@@ -154,6 +132,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/bridge/";
+          
+        },
+      },{id: "post-4th-in-the-panorama-challenge",
+        
+          title: "4th in the PANORAMA Challenge",
+        
+        description: "we ranked 4th in the PANORAMA Challenge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/panorama/";
+          
+        },
+      },{id: "post-4th-in-the-segstrong-c-challenge",
+        
+          title: "4th in the SegSTRONG-C challenge",
+        
+        description: "we ranked 4th in the SegSTRONG-C challenge",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2024/segstrongc/";
           
         },
       },{id: "news-founded-project-neura",
