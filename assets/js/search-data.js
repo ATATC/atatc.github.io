@@ -165,17 +165,7 @@ ninja.data = [{
           section: "News",},{id: "news-joined-vector-institute-as-an-intern-in-bo-wang-lab",
           title: 'Joined Vector Institute as an intern in Bo Wang Lab.',
           description: "",
-          section: "News",},{id: "news-4th-in-the-segstrong-c-challenge",
-          title: '4th in the SegSTRONG-C challenge.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/20241012_0/";
-            },},{id: "news-4th-in-the-panorama-challenge",
-          title: '4th in the PANORAMA Challenge.',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/20250301_0/";
-            },},{id: "news-graduated-from-villanova-college-with-an-ontario-secondary-school-diploma-and-an-ontario-scholar",
+          section: "News",},{id: "news-graduated-from-villanova-college-with-an-ontario-secondary-school-diploma-and-an-ontario-scholar",
           title: 'Graduated from Villanova College with an Ontario Secondary School Diploma and an Ontario...',
           description: "",
           section: "News",},{id: "news-joined-university-of-toronto-as-an-undergraduate-student-in-2t9-engineering-science-pey-co-op-faculty-of-applied-science-and-engineering",
@@ -189,6 +179,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-joined-shanghai-jiao-tong-university-as-a-part-time-research-assistant-under-the-supervision-of-dr-bin-sheng",
           title: 'Joined Shanghai Jiao Tong University as a part-time research assistant under the supervision...',
+          description: "",
+          section: "News",},{id: "news-became-vice-president-of-research-at-utmist",
+          title: 'Became Vice President of Research at UTMIST.',
           description: "",
           section: "News",},{id: "projects-erbium",
           title: 'Erbium',
