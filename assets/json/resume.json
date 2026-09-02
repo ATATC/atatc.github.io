@@ -5,7 +5,7 @@
     "image": "/assets/img/portrait.jpg",
     "email": "terry.fu@projectneura.org",
     "url": "https://atatc.me",
-    "summary": "2T9 EngSci at University of Toronto; Student Researcher at UHN; Research Assistant at SJTU; Previously at Vector Institute",
+    "summary": "2T9 EngSci at University of Toronto; Previously at Vector Institute, UHN, and SJTU",
     "location": {
       "city": "Toronto",
       "countryCode": "CA",
@@ -39,16 +39,17 @@
       "name": "Project Neura",
       "position": "Team Lead",
       "url": "https://projectneura.org",
-      "startDate": "2019-06-09",
+      "startDate": "2022-06-09",
       "summary": "Gathering researchers and developers to bring their ideas into reality. Developed projects like LEADS and MIP Candy.",
       "highlights": [
-        "Developed MIP Candy (A Candy for Medical Image Processing)",
-        "Developed LEADS (Lightweight Embedded Assisted Driving System)",
-        "Built an infrastructure cloud compute platform with Docker"
+        "Gathering researchers and developers to bring their ideas into reality",
+        "Developed MIP Candy (A Candy for Medical Image Processing), a fast-prototyping engine for complete experiment pipelines for medical image processing",
+        "Developed LEADS (Lightweight Embedded Assisted Driving System), an end-to-end instrumentation, control, and analysis system for electric race cars",
+        "Built Erbium, an infrastructure cloud compute platform with Docker"
       ]
     },
     {
-      "name": "Vector Institute (Bo Wang Lab)",
+      "name": "Vector Institute (Dr. Bo Wang)",
       "position": "Research Intern",
       "url": "https://vectorinstitute.ai",
       "startDate": "2024-08-01",
@@ -68,7 +69,7 @@
       "endDate": "2026-07-12",
       "summary": "Researching on downstream tasks in medical image processing.",
       "highlights": [
-        "The SegWithU Project (SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation)",
+        "[UNSURE@MICCAI2026] The SegWithU Project (SegWithU: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation)",
         "The AIP Project (Automated Iterative Pseudo-labeling)"
       ]
     },
@@ -77,10 +78,16 @@
       "position": "Student Researcher",
       "url": "https://www.uhn.ca/",
       "startDate": "2026-04-22",
+      "endDate": "2026-09-27",
       "summary": "Working on medical MLLMs.",
       "highlights": [
-        "Helping to manage the MICCAI FLARE 2026 challenge",
-        "Building SOTA multimodal medical image models"
+        "Delivered a mini course on multimodal large language models",
+        "Applied C-RadioV4-style multi-teacher distillation on the 35TB SLC-PFM Pathology dataset from three encoders: H-optimus-1, UNI2-H, and Virchow2",
+        "Utilized feature clustering with summary/patch token extraction to reduce the wall time from years to weeks on only 4 H100 GPUs",
+        "Explored zero-shot feature upsampling (NAF) on pathology foundation models",
+        "Managed the MICCAI FLARE 2026 challenge",
+        "Fine-tuned and evaluated MedGemma 1 and 1.5 on various tasks across classification, multi-label classification, detection, instance detection, cell counting, regression and report generation, using Compute Canada (SLURM) clusters, as one of the baselines",
+        "Made skills for agents to remotely access MFA-controlled SLURM clusters through shared ControlMaster SSH sessions"
       ]
     },
     {
@@ -88,6 +95,7 @@
       "position": "Research Assistant",
       "url": "https://en.sjtu.edu.cn/",
       "startDate": "2026-05-01",
+      "endDate": "2026-09-01",
       "summary": "Working on systematic reviews.",
       "highlights": [
         "Working on \"Who Does Medical AI Serve? Hidden Institutional Logics Behind Clinical AI\""
