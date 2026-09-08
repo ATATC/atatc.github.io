@@ -25,10 +25,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at the University of
-Toronto. My major interest is in **foundation models** that encode modalities together with deep reasoning in language
-models (MLLM) to solve real-world problems like cancer research. Efficiency work is also an important aspect of my
-research. I used to be a full-stack developer who mainly focused on Next.js, SpringBoot, and MySQL.
+I’m currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at the University of
+Toronto. My major interest is in foundation models that encode modalities together with deep reasoning in language
+models (MLLM) to solve real-world problems like cancer research. Efficiency work, including operator kernels and
+computer architectures, is also an important aspect of my research. I used to be a full-stack developer who mainly
+focused on Next.js, SpringBoot, and MySQL.
 
 I started working as a full-stack developer since middle school in Shanghai. My research career started in high school
 at [Villanova College](https://www.villanovacollege.org). Later I did an internship in medical image processing at
@@ -44,8 +45,8 @@ and continuous delivery. Libraries like [MIP Candy](https://atatc.me/projects/mi
 institutions including Vector Institute, Mila, University of Toronto, McGill University, University of Waterloo, and
 many others.
 
-In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research
-team lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu). Later in the
-summer, I joined [University Health Network](https://uhn.ca) (Princess Margaret Cancer Centre) to work as an
-undergraduate student researcher in parallel to my research assistant position at
+In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research team
+lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu). Later in the summer, I
+joined [University Health Network](https://uhn.ca) (Princess Margaret Cancer Centre) to work as an undergraduate student
+researcher in parallel to my research assistant position at
 [Shanghai Jiao Tong University](https://en.sjtu.edu.cn).
