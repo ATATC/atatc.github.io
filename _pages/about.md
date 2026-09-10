@@ -9,7 +9,7 @@ profile:
   image: selfie.jpg
   image_circular: false
   more_info: >
-    2T9 EngSci at University of Toronto; Previously at Vector Institute, UHN, and SJTU
+    2T9 EngSci at University of Toronto; ML Research at Vector Institute; Previously at UHN, and SJTU
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
