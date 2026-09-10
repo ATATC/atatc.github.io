@@ -56,9 +56,10 @@
       "endDate": "2025-09-01",
       "summary": "Competing in medical AI challenges presented by MICCAI.",
       "highlights": [
-        "Ranked 4th in the PANORAMA Challenge",
+        "[Lancet Oncology] Ranked 4th in the PANORAMA Challenge",
+        "Proposed a multi-head UNet for joint classification (PDAC) and segmentation of 3D pancreas lesion",
         "Ranked 4th in the SegSTRONG-C Challenge",
-        "Helped with Fast nnU-Net"
+        "Proposed domain-targeted data augmentation methods that improve nnUNet’s robustness against non-adversarial destruction (e.g. smoke, blood, …)"
       ]
     },
     {
