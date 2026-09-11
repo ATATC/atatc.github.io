@@ -1,0 +1,1 @@
+I'm a computer science student at the University of Toronto, doing machine learning research with Project Neura and UTMIST. Most of my work is about reliability: getting models to be honest about what they do not know, and finding out where training methods break before anyone builds on top of them.

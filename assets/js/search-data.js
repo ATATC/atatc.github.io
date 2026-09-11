@@ -44,12 +44,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-lab",
-          title: "lab",
-          description: "where you realize your innovational ideas",
+        },{id: "nav-co-authors",
+          title: "co-authors",
+          description: "these people have worked with me as co-first authors before",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/lab/";
+            window.location.href = "/co-authors/";
           },
         },{id: "dropdown-steven-chen",
               title: "Steven Chen",
