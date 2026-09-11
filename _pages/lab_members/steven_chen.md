@@ -1,1 +1,0 @@
-I'm a Grade 12 student in Canada. My main interests lie in the applications of machine intelligence across different domains—finance, computer vision, and medical imaging. I'm fascinated by how the same underlying techniques can be adapted to solve vastly different problems.
