@@ -27,26 +27,27 @@ latest_posts:
 
 I’m currently an undergraduate student in [Engineering Science](https://engsci.utoronto.ca) 2T9 at the University of
 Toronto. My major interest is in foundation models that encode modalities together with deep reasoning in language
-models (MLLM) to solve real-world problems like cancer research. Efficiency work, including operator kernels and
-computer architectures, is also an important aspect of my research. I used to be a full-stack developer who mainly
-focused on Next.js, SpringBoot, and MySQL.
+models (known as MLLMs) to solve real-world problems like cancer research. Efficiency work, including operator kernels
+and computer architectures, is also an important aspect of my research. I used to be a full-stack developer who mainly
+focused on Next.js, SpringBoot, and MySQL before starting my research career.
 
-I started working as a full-stack developer since middle school in Shanghai. My research career started in high school
-at [Villanova College](https://www.villanovacollege.org). Later I did an internship in medical image processing at
-[Vector Institute](https://vectorinstitute.ai).
+Starting in 2024, I have interned at the Bo Wang Lab, supervised by Dr.
+[Bo Wang](https://lmp.utoronto.ca/faculty/bo-wang), at [Vector Institute](https://vectorinstitute.ai) and the FLARE Lab,
+supervised by Dr. [Jun Ma](https://www.uhnresearch.ca/researcher/jun-ma), at both
+[University Health Network](https://uhn.ca) (Princess Margaret Cancer Center) and
+[Vector Institute](https://vectorinstitute.ai). During these internships, I have been focusing on **traditional
+classification/segmentation/detection neural networks (specialists)** as well as **foundation models and MLLMs
+(generalists)** applied on **both 2D and 3D medical images**, including **CT**, **MRI**, and **ultrasound**.
 
-In 2022, I founded [Project Neura](https://projectneura.org) and held tens of projects with other members. Noticeably,
-we developed [LEADS](https://atatc.me/projects/leads) as a collaborative project with the
-[VeC](https://www.villanovacollege.org/student-life/vec-project) team, which is a club in my high school that aims to
-compete in the [University of Waterloo EV Challenge](https://uwaterloo.ca/electric-vehicle-challenge). In addition, we
-have established a solid foundation in the organizational infrastructure that ensures the ability of fast prototyping
-and continuous delivery. Libraries like [MIP Candy](https://atatc.me/projects/mipcandy) and
-[Erbium](https://atatc.me/projects/erbium) have witnessed the rapid growth of our community with members from well-known
+Outside of work, I led a team called [Project Neura](https://projectneura.org) and conducted research projects like
+[SegWithU](https://atatc.me/projects/segwithu) and [Varest](https://atatc.me/projects/varest) with members from
 institutions including Vector Institute, Mila, University of Toronto, McGill University, University of Waterloo, and
-many others.
+many others. In addition, we also had some fun engineering projects like [LEADS](https://atatc.me/projects/leads),
+[MIP Candy](https://atatc.me/projects/mipcandy), and [Erbium](https://atatc.me/projects/erbium).
 
 In my first semester at the University of Toronto, I joined [UTMIST](https://www.utmist.ca) as an internal research team
-lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu). Later in the summer, I
-joined [University Health Network](https://uhn.ca) (Princess Margaret Cancer Centre) to work as an undergraduate student
-researcher in parallel to my research assistant position at
-[Shanghai Jiao Tong University](https://en.sjtu.edu.cn).
+lead working on the AIP project and the [SegWithU project](https://atatc.me/projects/segwithu). Later in July 2026, I
+was promoted to the Vice President of Research.
+
+I was also previously a research assistant at [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) supervised by
+Dr. [Bin Sheng](https://en.zhiyuan.sjtu.edu.cn/en/faculty/369/detail) during summer 2026.
