@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SegWithU
-description: Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
+description: [UNSURE@MICCAI2026] Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation
 img: /assets/img/segwithu.png
 importance: 1
 category: research
