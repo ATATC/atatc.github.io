@@ -201,11 +201,16 @@ ninja.data = [{
           description: "A Candy for Medical Image Processing",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mipcandy/";
-            },},{id: "projects-segwithu",
-          title: 'SegWithU',
-          description: "Uncertainty as Perturbation Energy for Single-Forward-Pass Risk-Aware Medical Image Segmentation",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/segwithu/";
+            },},{id: "projects-varest",
+          title: 'Varest',
+          description: "Find the Fungible: Variable-Resolution Tokenization that Compacts Semantics with a Granularity Dial as a VLM &quot;Catalyst&quot;",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/varest/";
             },},{
         id: 'social-cv',
         title: 'CV',
