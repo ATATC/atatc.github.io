@@ -156,13 +156,7 @@ ninja.data = [{
             window.location.href = "/blog/2024/segstrongc/";
           
         },
-      },{id: "news-founded-project-neura",
-          title: 'Founded Project Neura.',
-          description: "",
-          section: "News",},{id: "news-joined-villanova-college-as-a-grade-10-student",
-          title: 'Joined Villanova College as a Grade 10 student.',
-          description: "",
-          section: "News",},{id: "news-joined-vector-institute-as-an-intern-in-bo-wang-lab",
+      },{id: "news-joined-vector-institute-as-an-intern-in-bo-wang-lab",
           title: 'Joined Vector Institute as an intern in Bo Wang Lab.',
           description: "",
           section: "News",},{id: "news-graduated-from-villanova-college-with-an-ontario-secondary-school-diploma-and-an-ontario-scholar",
