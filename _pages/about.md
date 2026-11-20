@@ -31,10 +31,10 @@ models (known as MLLMs) to solve real-world problems like cancer research. Effic
 and computer architectures, is also an important aspect of my research. I used to be a full-stack developer who mainly
 focused on Next.js, SpringBoot, and MySQL before starting my research career.
 
-Starting in 2024, I have interned at the Bo Wang Lab, supervised by Dr.
-[Bo Wang](https://lmp.utoronto.ca/faculty/bo-wang), at [Vector Institute](https://vectorinstitute.ai) and the FLARE Lab,
-supervised by Dr. [Jun Ma](https://www.uhnresearch.ca/researcher/jun-ma), at both
-[University Health Network](https://uhn.ca) (Princess Margaret Cancer Center) and
+From 2024 to 2025, I interned at the Bo Wang Lab, supervised by Dr.
+[Bo Wang](https://lmp.utoronto.ca/faculty/bo-wang), at [Vector Institute](https://vectorinstitute.ai). During summer
+2026, I interned at the FLARE Lab, supervised by Dr. [Jun Ma](https://www.uhnresearch.ca/researcher/jun-ma), at
+[University Health Network](https://uhn.ca) (Princess Margaret Cancer Center), and later continued at
 [Vector Institute](https://vectorinstitute.ai). During these internships, I have been focusing on **traditional
 classification/segmentation/detection neural networks (specialists)** as well as **foundation models and MLLMs
 (generalists)** applied on **both 2D and 3D medical images**, including **CT**, **MRI**, and **ultrasound**.
